@@ -31,11 +31,11 @@ declare module 'vue' {
     ElTableColumn: typeof import('element-plus/es')['ElTableColumn']
     ElTabPane: typeof import('element-plus/es')['ElTabPane']
     ElTabs: typeof import('element-plus/es')['ElTabs']
-    NavHeader: typeof import('E:/element-plus-admin/src/components/nav-header/nav-header.vue')['default']
-    NavMenu: typeof import('E:/element-plus-admin/src/components/nav-menu/nav-menu.vue')['default']
-    PageContent: typeof import('E:/element-plus-admin/src/components/page-content/page-content.vue')['default']
-    PageModal: typeof import('E:/element-plus-admin/src/components/page-modal/page-modal.vue')['default']
-    PageSearch: typeof import('E:/element-plus-admin/src/components/page-search/page-search.vue')['default']
+    NavHeader: typeof import('C:/Users/didoee/Desktop/element-plus-admin/src/components/nav-header/nav-header.vue')['default']
+    NavMenu: typeof import('C:/Users/didoee/Desktop/element-plus-admin/src/components/nav-menu/nav-menu.vue')['default']
+    PageContent: typeof import('C:/Users/didoee/Desktop/element-plus-admin/src/components/page-content/page-content.vue')['default']
+    PageModal: typeof import('C:/Users/didoee/Desktop/element-plus-admin/src/components/page-modal/page-modal.vue')['default']
+    PageSearch: typeof import('C:/Users/didoee/Desktop/element-plus-admin/src/components/page-search/page-search.vue')['default']
   }
 }
 
